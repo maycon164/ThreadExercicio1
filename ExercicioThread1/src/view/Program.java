@@ -1,5 +1,7 @@
 
-package controller;
+package view;
+
+import controller.idThread;
 
 public class Program {
 
